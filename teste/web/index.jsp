@@ -12,6 +12,14 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Testando</h1>
+        <h1>Hello Git 
+            <form name="Name Input Form" action="response.jsp">
+                Enter Your name:
+                <input type="text" name="name"/>
+                <br> and Last name:
+                <input type="text" name="last_name"/>
+                <input type="submit" value="Okay" />
+            </form>
+        </h1>
     </body>
 </html>
