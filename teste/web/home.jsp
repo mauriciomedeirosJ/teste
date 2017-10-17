@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 17/10/2017, 01:04:38
+    Document   : home
+    Created on : 17/10/2017, 01:14:31
     Author     : mauricio
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Testando</h1>
+        <h1>HOME 2</h1>
     </body>
 </html>
